@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="React DoWhile App" src="https://res.cloudinary.com/dydwaeqqy/image/upload/v1667153549/adaptive-icon_x3uor9.png" />
+    <img alt="React DoWhile App" src="https://res.cloudinary.com/dydwaeqqy/image/upload/v1667153678/logo_tnydpw.svg" />
     <br>
     Do WHILE APP
 </h1>
