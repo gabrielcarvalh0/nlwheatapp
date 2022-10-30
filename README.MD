@@ -31,7 +31,7 @@ Consiste em uma aplicação compelta de um app para mensagens em tempo real ulti
 </p>
 
 <p align="center">
-  <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563425600/readme_logos/rocketshoes-native_gsjofr.gif">
+  <img alt="Demo on APP" src="https://res.cloudinary.com/dydwaeqqy/image/upload/v1667155022/img-dowhile_c6onon.jpg">
 </p>
 
 ## :rocket: Technologies
