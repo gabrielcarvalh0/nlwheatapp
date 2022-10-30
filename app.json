@@ -1,15 +1,17 @@
 {
   "expo": {
     "name": "nlwheatapp",
+    "owner": "gabrielcarvalh0",
     "slug": "nlwheatapp",
     "version": "1.0.0",
+    "scheme": "nlwheatapp",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#121214"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
