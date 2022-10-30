@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="React RocketShoes" src="https://res.cloudinary.com/lukemorales/image/upload/v1562696000/readme_logos/react-rocketshoes_jy1lze.png" />
+    <img alt="React DoWhile App" src="https://res.cloudinary.com/dydwaeqqy/image/upload/v1667153549/adaptive-icon_x3uor9.png" />
     <br>
     Do WHILE APP
 </h1>
