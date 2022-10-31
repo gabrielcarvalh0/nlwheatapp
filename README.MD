@@ -38,6 +38,7 @@ Consiste em uma aplicação compelta de um app para mensagens em tempo real ulti
 
 This project was developed at the [RocketSeat DoWhile - 2021](https://rocketseat.com.br/bootcamp) with the following technologies:
 
+- [React-Native](https://reactnative.dev/)
 - [ReactJS](https://reactjs.org/)
 - [Moti](https://moti.fyi/)
 - [Axios](https://github.com/axios/axios)
@@ -52,7 +53,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 $ git clone https://github.com/gabrielcarvalh0/nlwheatapp.git dowhileapp
 
 # Go into the repository
-$ cd rocketshoes-react-native
+$ cd dowhileapp
 
 # Install dependencies
 $ yarn install
