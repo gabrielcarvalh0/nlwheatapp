@@ -68,11 +68,6 @@ $ react-native run-ios --simulator="iPhone XS Max"
 $ react-native run-android
 ```
 
-## :memo: License
-
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/rocketshoes-react-native/blob/master/LICENSE) for more information.
-
----
 
 Made with ♥ by Gabriel Carvalho :wave: [Get in touch!](https://www.linkedin.com/in/gabriel-carvalho-3867001a5/)
 
