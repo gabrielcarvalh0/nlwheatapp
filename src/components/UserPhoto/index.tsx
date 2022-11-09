@@ -14,10 +14,14 @@ const SIZES = {
     containerSize: 48,
     avatarSize: 42,
   },
+  GRANDE: {
+    containerSize: 108,
+    avatarSize: 102,
+  }
 };
 type Props = {
   imageUri: string | undefined;
-  sizes?: "SMALL" | "NORMAL";
+  sizes?: "SMALL" | "NORMAL" | "GRANDE";
 };
 
 const AVATAR_DEFAULT = Image.resolveAssetSource(avatarImg).uri;
